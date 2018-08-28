@@ -1,0 +1,63 @@
+Smoothness results
+
+Data_20_2hyp/Class_Pred_Probs/pred_fire2.csv
+[ 0.0575964]
+Data_20_2hyp/Class_Pred_Probs/pred_fire5.csv
+[ 0.0575964]
+Data_20_2hyp/Class_Pred_Probs/pred_fire10.csv
+[ 0.0575964]
+Data_20_2hyp/Class_Pred_Probs/pred_fire20.csv
+[ 0.0575964]
+Data_20_2hyp/Class_Pred_Probs/pred_fire50.csv
+[ 0.0575964]
+Data_50_2hyp/Class_Pred_Probs/pred_fire2.csv
+[ 0.0575964]
+Data_50_2hyp/Class_Pred_Probs/pred_fire5.csv
+[ 0.0575964]
+Data_50_2hyp/Class_Pred_Probs/pred_fire10.csv
+[ 0.0575964]
+Data_50_2hyp/Class_Pred_Probs/pred_fire20.csv
+[ 0.0575964]
+Data_50_2hyp/Class_Pred_Probs/pred_fire50.csv
+[ 0.0575964]
+Data_100_2hyp/Class_Pred_Probs/pred_fire2.csv
+[ 0.0575964]
+Data_100_2hyp/Class_Pred_Probs/pred_fire5.csv
+[ 0.0575964]
+Data_100_2hyp/Class_Pred_Probs/pred_fire10.csv
+[ 0.0575964]
+Data_100_2hyp/Class_Pred_Probs/pred_fire20.csv
+[ 0.0575964]
+Data_100_2hyp/Class_Pred_Probs/pred_fire50.csv
+[ 0.0575964]
+
+Data_20_4hyp/Class_Pred_Probs/pred_fire2.csv
+[ 0.02119346]
+Data_20_4hyp/Class_Pred_Probs/pred_fire5.csv
+[ 0.02119346]
+Data_20_4hyp/Class_Pred_Probs/pred_fire10.csv
+[ 0.02119346]
+Data_20_4hyp/Class_Pred_Probs/pred_fire20.csv
+[ 0.02119346]
+Data_20_4hyp/Class_Pred_Probs/pred_fire50.csv
+[ 0.02119346]
+Data_50_4hyp/Class_Pred_Probs/pred_fire2.csv
+[ 0.02119346]
+Data_50_4hyp/Class_Pred_Probs/pred_fire5.csv
+[ 0.02119346]
+Data_50_4hyp/Class_Pred_Probs/pred_fire10.csv
+[ 0.02119346]
+Data_50_4hyp/Class_Pred_Probs/pred_fire20.csv
+[ 0.02119346]
+Data_50_4hyp/Class_Pred_Probs/pred_fire50.csv
+[ 0.02119346]
+Data_100_4hyp/Class_Pred_Probs/pred_fire2.csv
+[ 0.02119346]
+Data_100_4hyp/Class_Pred_Probs/pred_fire5.csv
+[ 0.02119346]
+Data_100_4hyp/Class_Pred_Probs/pred_fire10.csv
+[ 0.02119346]
+Data_100_4hyp/Class_Pred_Probs/pred_fire20.csv
+[ 0.02119346]
+Data_100_4hyp/Class_Pred_Probs/pred_fire50.csv
+[ 0.02119346]
